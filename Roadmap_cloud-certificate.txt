@@ -1,0 +1,19 @@
+Recommended Path for You (if goal = Cloud + DevOps role):
+
+Pick one primary cloud (e.g., AWS Solutions Architect Associate → AWS DevOps Engineer Pro).
+
+Add Kubernetes (CKA) and Terraform (since almost every DevOps engineer uses them).
+
+If you’re on Azure → aim for AZ-104 + AZ-400.
+
+If on GCP → ACE + Professional DevOps Engineer.
+
+👉 Abu, since you already did GCP ACE and are learning AWS Associate Architect, I’d suggest:
+
+Next → AWS DevOps Engineer – Professional or CKA
+
+Parallel → Terraform Associate
+
+Then → Azure AZ-400 (to be multi-cloud strong)
+
+Do you want me to make a roadmap (6–12 months) 
